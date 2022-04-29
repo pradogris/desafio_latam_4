@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.textl {
+    font-size: 20px;
+    color: #212529;
+    font-weight: 300;
+}
+
+.text2 {
+    font-size: 16px;
+    color: #707070;
+    font-weight: 300;
+}
+
+.text3 {
+    font-size: 13px;
+    color: #707070;
+    display: inline-block;
+}
+
+.text4 {
+    font-size: 20px;
+    font-weight: 500; 
+}
+
+.text5 {
+    font-size: 21px;
+    color: #FFFFFF;
+    font-weight: 500;
+    text-align: center;
+}
